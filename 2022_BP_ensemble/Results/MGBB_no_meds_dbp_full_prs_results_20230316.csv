@@ -1,0 +1,25 @@
+phenotype,genetic_model_type,group,n_test,test_result,full_result_test,Data Set,Model Complexity
+DBP_V1,xgboost,Overall,15019,0.016979488,0.140578679,MGB Biobank,Model 1
+DBP_V1,xgboost,AA,689,0.01633067,0.104906964,MGB Biobank,Model 1
+DBP_V1,xgboost,AsA,337,0.015971219,0.173416756,MGB Biobank,Model 1
+DBP_V1,xgboost,EA,12704,0.020187348,0.143545211,MGB Biobank,Model 1
+DBP_V1,xgboost,Overall,15019,0.018926148,0.142280577,MGB Biobank,Model 2
+DBP_V1,xgboost,AA,689,0.004641688,0.094270538,MGB Biobank,Model 2
+DBP_V1,xgboost,AsA,337,0.035417649,0.189751739,MGB Biobank,Model 2
+DBP_V1,xgboost,EA,12704,0.019741893,0.143155838,MGB Biobank,Model 2
+DBP_V1,xgboost,Overall,15019,0.019108499,0.142440001,MGB Biobank,Model 3
+DBP_V1,xgboost,AA,689,0.012242587,0.101187,MGB Biobank,Model 3
+DBP_V1,xgboost,AsA,337,0.049270729,0.201388313,MGB Biobank,Model 3
+DBP_V1,xgboost,EA,12704,0.019114296,0.142607256,MGB Biobank,Model 3
+DBP_V1,linear regression,Overall,15019,0.017076004,0.14066306,MGB Biobank,Model 1
+DBP_V1,linear regression,AA,689,0.009259837,0.098472837,MGB Biobank,Model 1
+DBP_V1,linear regression,AsA,337,0.053684424,0.205095812,MGB Biobank,Model 1
+DBP_V1,linear regression,EA,12704,0.019173121,0.142658675,MGB Biobank,Model 1
+DBP_V1,linear regression,Overall,15019,0.018296488,0.141730087,MGB Biobank,Model 2
+DBP_V1,linear regression,AA,689,0.006724839,0.096166107,MGB Biobank,Model 2
+DBP_V1,linear regression,AsA,337,0.05443223,0.205723968,MGB Biobank,Model 2
+DBP_V1,linear regression,EA,12704,0.019551095,0.142989062,MGB Biobank,Model 2
+DBP_V1,linear regression,Overall,15019,0.013937021,0.137918754,MGB Biobank,Model 3
+DBP_V1,linear regression,AA,689,0.01808783,0.106505898,MGB Biobank,Model 3
+DBP_V1,linear regression,AsA,337,0.059041696,0.209595916,MGB Biobank,Model 3
+DBP_V1,linear regression,EA,12704,0.013218174,0.137453453,MGB Biobank,Model 3
