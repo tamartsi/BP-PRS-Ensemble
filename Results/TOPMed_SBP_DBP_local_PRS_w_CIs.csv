@@ -1,0 +1,61 @@
+model_name,model_level,model_type,group,phenotype,CI_lower_bound,PVE,CI_upper_bound
+LASSO,Level 1,Genetic,Overall,DBP,1.82%,2.04%,2.29%
+LASSO,Level 1,Genetic,Black,DBP,0.28%,0.69%,1.22%
+LASSO,Level 1,Genetic,Asian,DBP,0.39%,1.53%,2.81%
+LASSO,Level 1,Genetic,White,DBP,1.59%,1.84%,2.15%
+LASSO,Level 1,Genetic,Hispanic/Latino,DBP,3.00%,3.95%,4.64%
+XGBoost,Level 1,Genetic,Overall,DBP,1.64%,1.93%,2.17%
+XGBoost,Level 1,Genetic,Black,DBP,0.18%,0.69%,1.24%
+XGBoost,Level 1,Genetic,Asian,DBP,-0.05%,2.00%,3.67%
+XGBoost,Level 1,Genetic,White,DBP,1.45%,1.74%,2.09%
+XGBoost,Level 1,Genetic,Hispanic/Latino,DBP,2.97%,3.79%,4.45%
+Linear Regression,Level 1,Genetic,Overall,DBP,1.86%,2.61%,3.24%
+Linear Regression,Level 1,Genetic,Black,DBP,-0.81%,0.10%,1.21%
+Linear Regression,Level 1,Genetic,Asian,DBP,-1.05%,2.31%,5.43%
+Linear Regression,Level 1,Genetic,White,DBP,1.60%,2.39%,3.17%
+Linear Regression,Level 1,Genetic,Hispanic/Latino,DBP,4.33%,5.66%,6.85%
+LASSO,Level 1,Genetic,Overall,SBP,3.98%,4.52%,5.01%
+LASSO,Level 1,Genetic,Black,SBP,0.60%,1.55%,2.49%
+LASSO,Level 1,Genetic,Asian,SBP,-1.32%,1.40%,4.11%
+LASSO,Level 1,Genetic,White,SBP,5.11%,5.78%,6.56%
+LASSO,Level 1,Genetic,Hispanic/Latino,SBP,3.21%,4.24%,5.36%
+XGBoost,Level 1,Genetic,Overall,SBP,1.44%,1.61%,1.80%
+XGBoost,Level 1,Genetic,Black,SBP,0.23%,0.68%,1.18%
+XGBoost,Level 1,Genetic,Asian,SBP,-1.20%,0.28%,1.42%
+XGBoost,Level 1,Genetic,White,SBP,1.89%,2.12%,2.38%
+XGBoost,Level 1,Genetic,Hispanic/Latino,SBP,1.17%,1.62%,2.18%
+Linear Regression,Level 1,Genetic,Overall,SBP,4.04%,4.77%,5.50%
+Linear Regression,Level 1,Genetic,Black,SBP,-0.29%,0.89%,2.38%
+Linear Regression,Level 1,Genetic,Asian,SBP,-2.73%,0.64%,5.29%
+Linear Regression,Level 1,Genetic,White,SBP,5.79%,6.76%,7.66%
+Linear Regression,Level 1,Genetic,Hispanic/Latino,SBP,1.90%,3.41%,5.10%
+LASSO,Level 1,Ensemble,Overall,DBP,18.28%,19.04%,19.93%
+LASSO,Level 1,Ensemble,Black,DBP,21.31%,22.89%,24.77%
+LASSO,Level 1,Ensemble,Asian,DBP,7.20%,13.24%,20.01%
+LASSO,Level 1,Ensemble,White,DBP,14.11%,14.97%,16.13%
+LASSO,Level 1,Ensemble,Hispanic/Latino,DBP,19.28%,21.00%,22.78%
+XGBoost,Level 1,Ensemble,Overall,DBP,18.05%,18.94%,19.63%
+XGBoost,Level 1,Ensemble,Black,DBP,21.02%,22.89%,24.96%
+XGBoost,Level 1,Ensemble,Asian,DBP,7.19%,13.66%,20.52%
+XGBoost,Level 1,Ensemble,White,DBP,13.82%,14.89%,15.71%
+XGBoost,Level 1,Ensemble,Hispanic/Latino,DBP,18.87%,20.86%,22.28%
+Linear Regression,Level 1,Ensemble,Overall,DBP,18.51%,19.51%,20.66%
+Linear Regression,Level 1,Ensemble,Black,DBP,20.43%,22.42%,24.70%
+Linear Regression,Level 1,Ensemble,Asian,DBP,9.30%,13.93%,20.91%
+Linear Regression,Level 1,Ensemble,White,DBP,14.28%,15.45%,16.62%
+Linear Regression,Level 1,Ensemble,Hispanic/Latino,DBP,20.62%,22.40%,24.40%
+LASSO,Level 1,Ensemble,Overall,SBP,32.24%,33.21%,34.17%
+LASSO,Level 1,Ensemble,Black,SBP,32.03%,34.39%,36.66%
+LASSO,Level 1,Ensemble,Asian,SBP,10.95%,20.82%,27.59%
+LASSO,Level 1,Ensemble,White,SBP,31.90%,33.03%,33.95%
+LASSO,Level 1,Ensemble,Hispanic/Latino,SBP,28.91%,30.72%,33.06%
+XGBoost,Level 1,Ensemble,Overall,SBP,30.24%,31.18%,32.30%
+XGBoost,Level 1,Ensemble,Black,SBP,31.91%,33.80%,35.61%
+XGBoost,Level 1,Ensemble,Asian,SBP,12.32%,19.92%,26.65%
+XGBoost,Level 1,Ensemble,White,SBP,29.38%,30.43%,31.69%
+XGBoost,Level 1,Ensemble,Hispanic/Latino,SBP,26.61%,28.83%,31.05%
+Linear Regression,Level 1,Ensemble,Overall,SBP,32.26%,33.39%,34.38%
+Linear Regression,Level 1,Ensemble,Black,SBP,31.04%,33.95%,36.11%
+Linear Regression,Level 1,Ensemble,Asian,SBP,14.15%,20.21%,26.41%
+Linear Regression,Level 1,Ensemble,White,SBP,32.43%,33.73%,35.11%
+Linear Regression,Level 1,Ensemble,Hispanic/Latino,SBP,27.74%,30.12%,32.04%
